@@ -91,6 +91,8 @@ export const SectionProdutos = styled.section`
     }
 
     @media (max-width: 600px) and (min-width: 201px) {
+
+        padding: 0 30px;
         div{
             width: 320px;
         }

@@ -37,7 +37,7 @@ export const DivDaLogo = styled.div`
         width: 165px;
 
         p {
-            font-size: 14px;
+            display: none;
         }
     }
 `

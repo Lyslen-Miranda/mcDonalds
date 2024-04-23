@@ -38,10 +38,12 @@ export const Header = styled.header`
     strong {
         font-weight: 600;
     }
+
     a {
         text-decoration: none;
         color: black;
     }
+
 
     @media (max-width: 1000px) and (min-width: 601px) {
        section{
@@ -50,6 +52,8 @@ export const Header = styled.header`
     }
 
     @media (max-width: 600px) and (min-width: 201px) {
+
+        padding: 0 10px;
         section{
             width: 65vw;
         }
@@ -66,10 +70,17 @@ export const Logo = styled.img`
     }
 
     @media (max-width: 600px) and (min-width: 201px) {
-        width: 6vw;
+        width: 8vw;
     }
 `
 
 export const DivFundoAmarelo = styled.div`
     background-color: #FFC72C;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+
+    p{
+       font-size: 9.5px;
+    }
 `
