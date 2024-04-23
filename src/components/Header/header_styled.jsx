@@ -81,6 +81,12 @@ export const DivFundoAmarelo = styled.div`
     padding: 10px;
 
     p{
-       font-size: 9.5px;
+       font-size: 12px;
+    }
+
+    @media (max-width: 600px) and (min-width: 201px) {
+        p{
+            font-size: 9.8px;
+        }
     }
 `
