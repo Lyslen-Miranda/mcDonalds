@@ -13,3 +13,6 @@ Criar o código para um layout desenvolvido no Figma pela equipe do Vai na Web.
 
 ## Vídeo do projeto finalizado
 [95cce990-bc80-4307-8c50-ed22b5479f69.webm](https://github.com/Lyslen-Miranda/mcDonalds/assets/147668425/1e8e67c4-d504-4bd3-a252-21df0557918b)
+
+## Link de navegação
+https://mc-donalds-blush.vercel.app/
